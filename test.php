@@ -1,3 +1,3 @@
 <?php
-echo "test adasdasdasdasda";
+echo "test file text";
 ?>
